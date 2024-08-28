@@ -57,21 +57,6 @@ GET SESSION ID VIA PAIR CODE
    - Get the Koyeb API key.
 [![Get Koyeb API Key](https://img.shields.io/badge/Get%20Koyeb%20API%20Key-blue)](https://app.koyeb.com/account/api)
 
- **Deploy:**
-   - [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://qr-hazel-alpha.vercel.app/koyeb)
-   
-
-**Deploy on Replit:**
-
-[![Run on Replit](https://replit.com/badge/github/your-repo-owner/your-repo-name)](https://replit.com/@Nightbot2O/whatsapp-bot-md)
-
-1. Fork the repository.
-2. Edit `config.env`.
-3. Click run.
-
-
- **Deploy:**
-   - [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://qr-hazel-alpha.vercel.app/render)
 
      
  **Deploy on VPS or PC (Example here as in Ubuntu)**
