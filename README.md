@@ -1,66 +1,139 @@
-<p align="center">
-  <a
-<p style="color:rgb(255, 0, 0);"><strong>WELCOME</strong></p>
-<p align="center">
-  <a href="https://youtu.be/WcA7GZuaN0A">
-    <img alt="Pritam-V1" height="300" src="https://graph.org/file/2fa88b776ecdc757e9a43.jpg">
-  </a>
-</p>
+# WhatsApp MD User Bot
 
-<p align="center">Introducing Pritam-V1, It is designed to bring a whole new level of excitement to your boring WhatsApp use.</p>
+A simple WhatsApp User bot.
 
-<p align="center">
-  <a aria-label="Pritam-v1 is free to use" 
-    
----
+## Setup
 
-### 1. FORK THIS REPO
+### 1. Deploy on Heroku
 
-<a href='https://github.com/officialpritam07/Pritam-V1/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+1. **Scan QR Code:**
+   - Click [SCAN](https://qr-hazel-alpha.vercel.app/md) and scan the QR code through the "WhatsApp Linked Devices" option in your WhatsApp app.
+   - You will get a session ID in WhatsApp; copy the ID only.
 
-### 2. GET SESSION ID VIA PAIR CODE
+2. **Create Accounts:**
+   - If you don't have an account on [Heroku](https://signup.heroku.com/), [create an account now](https://signup.heroku.com/).
+   - If you don't have a GitHub account, [sign up](https://github.com/join) now.
 
-[![Get session id](https://img.shields.io/badge/Get_session_id-Blue?style=for-the-badge&logo=appveyor)](https://replit.com/@officialpritam1/Pritam-V1#index.js)
+3. **Fork Repository:**
+   - [FORK](https://github.com/lyfe00011/levanter/fork) this repository.
 
+4. **Deploy:**
+   - Now [DEPLOY](https://qr-hazel-alpha.vercel.app/heroku).
 
-### DEPLOY TO HEROKU
+### 2. Deploy on Koyeb
 
-1. If you don't have an account in Heroku, create one.
-    <br>
-    <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
-2. Now deploy.
-    <br>
-    <a href='https://heroku.com/deploy' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+1. **Create an Account:**
+   - Create an account on [Koyeb](https://app.koyeb.com/auth/signup). [Sign up now](https://app.koyeb.com/auth/signup).
 
+2. **Get Required Information:**
+   - Get the [DATABASE_URL](https://github.com/lyfe00011/levanter/wiki/DATABASE_URL). You'll need this while deploying.
+   - Get the [SESSION_ID](https://qr-hazel-alpha.vercel.app/md). Open Linked Devices in WhatsApp and [SCAN](https://qr-hazel-alpha.vercel.app/md) now.
+   - Get the Koyeb API key. [Let's Go](https://app.koyeb.com/account/api).
 
+3. **Deploy:**
+   - [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://qr-hazel-alpha.vercel.app/koyeb)
+   - Enter [Environment Variables](https://github.com/lyfe00011/levanter/wiki/Environment_Variables). [Read More](https://github.com/lyfe00011/levanter/wiki/Environment_Variables).
+   - Enter a name and click "Create Service."
 
-3. ## Deploy to Koyeb ↓
+### 3. Deploy on VPS or PC (Example here as in Ubuntu)
 
-<a href="https://app.koyeb.com/services/deploy/?type=git&repository=github.com%2FPritam-V1%2FPritam-V1&branch=main&name=Pritam-V1&builder=dockerfile&env%5BAUTO_BLOCK=false%5D=&env%5BSESSION_ID%5D=your%20sessionid%20here&env%5BMODE%5D=public&env=%5BAUTO_READ%5D%3Dfalse&env%5BAUTO_STATUS_SEEN%5D=true" target="blank"><img align="center" src="https://i.imgur.com/PNoLtFq.png" width="300" height="100" alt="Deploy bot"/></a>
+#### Install with Script
 
+- Run the following command:
+  ```sh
+  bash <(curl -fsSL http://bit.ly/43JqREw)
+  ```
 
+#### Install without Script
 
+1. **Install Git, ffmpeg, and curl:**
+   ```sh
+   sudo apt -y update && sudo apt -y upgrade
+   sudo apt -y install git ffmpeg curl
+   ```
 
-## OWNER & DEVELOPER
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/officialpritam.07)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/officialpritam.007)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/916296678356)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:officialpritam07@gmail.com)
-[![Join Telegram](https://img.shields.io/badge/Telegram-Join%20Chat-brightgreen)](https://t.me/Officialpritam07)
+2. **Install Node.js:**
+   ```sh
+   curl -fsSL https://deb.nodesource.com/setup_20.x -o nodesource_setup.sh
+   sudo -E bash nodesource_setup.sh
+   sudo apt-get install -y nodejs
+   ```
 
-## MAINTAINED BY
+3. **Install Yarn:**
+   ```sh
+   sudo npm install -g yarn
+   ```
 
-[![HRUTICK](https://img.shields.io/badge/HRUTICK-4B92DB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rushmaster12)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917020728211)
+4. **Install pm2:**
+   ```sh
+   sudo yarn global add pm2
+   ```
 
-## Reminder
+5. **Clone Repository and Install Packages:**
+   ```sh
+   git clone https://github.com/lyfe00011/levanter botName
+   cd botName
+   yarn install
+   ```
 
-- This bot is not made by `WhatsApp Inc.` So misusing the bot might `ban` your `WhatsApp account!` (Though your WhatsApp account can be unbanned only once.)
-- I am not responsible for anything.
-- Use at your own risk.
+6. **Enter Environment Variables:**
+   ```sh
+   echo "SESSION_ID = Session_Id_you_Got_After_Scan_Dont_Add_This_Line_If_You_Can_Scan_From_Terminal_Itself
+   PREFIX = .
+   STICKER_PACKNAME = LyFE
+   ALWAYS_ONLINE = false
+   RMBG_KEY = null
+   LANGUAG = en
+   WARN_LIMIT = 3
+   FORCE_LOGOUT = false
+   BRAINSHOP = 159501,6pq8dPiYt7PdqHz3
+   MAX_UPLOAD = 200
+   REJECT_CALL = false
+   SUDO = 989876543210
+   TZ = Asia/Kolkata
+   VPS = true
+   AUTO_STATUS_VIEW = true
+   SEND_READ = true
+   AJOIN = true
+   DISABLE_START_MESSAGE = false
+   PERSONAL_MESSAGE = null" > config.env
+   ```
 
----
+   - [Read More](https://github.com/lyfe00011/levanter/wiki/Environment_Variables)
 
-<p align="center">
-  <strong><em>Keep supporting us.</em>
-</p>
+7. **Edit `config.env` Using Nano (if needed):**
+   - To save, press `Ctrl + O`, then press `Enter`, and to exit, press `Ctrl + X`.
+
+8. **Start and Stop the Bot:**
+   - To start the bot:
+     ```sh
+     pm2 start . --name botName --attach --time
+     ```
+   - To stop the bot:
+     ```sh
+     pm2 stop botName
+     ```
+
+### 4. Deploy on Replit
+
+[![Run on Replit](https://replit.com/badge/github/your-repo-owner/your-repo-name)](https://replit.com/@Nightbot2O/whatsapp-bot-md)
+
+1. Fork the repository.
+2. Edit `config.env`.
+3. Click run.
+
+### 5. Deploy on Render
+1. **Create an Account:**
+   - Create an account on [render](https://dashboard.render.com/register). [Sign up now](https://dashboard.render.com/register).
+
+2. **Get Required Information:**
+   - Get the [DATABASE_URL](https://github.com/lyfe00011/levanter/wiki/DATABASE_URL). You'll need this while deploying.
+   - Get the [SESSION_ID](https://qr-hazel-alpha.vercel.app/md). Open Linked Devices in WhatsApp and [SCAN](https://qr-hazel-alpha.vercel.app/md) now.
+   - Get the render API key. [Let's Go](https://dashboard.render.com/u/settings#api-keys).
+
+3. **Deploy:**
+   - [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://qr-hazel-alpha.vercel.app/render)
+### Thanks To
+
+- [Yusuf Usta](https://github.com/Quiec) for [WhatsAsena](https://github.com/yusufusta/WhatsAsena)
+- [@adiwajshing](https://github.com/adiwajshing) for [Baileys](https://github.com/adiwajshing/Baileys)
