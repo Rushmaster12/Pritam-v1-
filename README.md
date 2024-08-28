@@ -62,16 +62,31 @@ GET SESSION ID VIA PAIR CODE
    - Enter [Environment Variables](https://github.com/lyfe00011/levanter/wiki/Environment_Variables). [Read More](https://github.com/lyfe00011/levanter/wiki/Environment_Variables).
    - Enter a name and click "Create Service."
 
+**Deploy on Replit:**
+
+[![Run on Replit](https://replit.com/badge/github/your-repo-owner/your-repo-name)](https://replit.com/@Nightbot2O/whatsapp-bot-md)
+
+1. Fork the repository.
+2. Edit `config.env`.
+3. Click run.
+
+ **Get Required Information:**
+   - Get the [DATABASE_URL](https://github.com/lyfe00011/levanter/wiki/DATABASE_URL). You'll need this while deploying.
+ 
+   - Get the render API key. [Let's Go](https://dashboard.render.com/u/settings#api-keys).
+
+ **Deploy:**
+   - [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://qr-hazel-alpha.vercel.app/render)
  Deploy on VPS or PC (Example here as in Ubuntu)
 
-#### Install with Script
+- Install with Script
 
 - Run the following command:
   ```sh
   bash <(curl -fsSL http://bit.ly/43JqREw)
   ```
 
-#### Install without Script
+- Install without Script
 
 1. **Install Git, ffmpeg, and curl:**
    ```sh
@@ -98,7 +113,7 @@ GET SESSION ID VIA PAIR CODE
 
 5. **Clone Repository and Install Packages:**
    ```sh
-   git clone https://github.com/lyfe00011/levanter botName
+   git clone https://github.com/officialpritam07/Pritam-v1 botName
    cd botName
    yarn install
    ```
@@ -141,22 +156,7 @@ GET SESSION ID VIA PAIR CODE
      pm2 stop botName
      ```
 
- Deploy on Replit
 
-[![Run on Replit](https://replit.com/badge/github/your-repo-owner/your-repo-name)](https://replit.com/@Nightbot2O/whatsapp-bot-md)
+**Thanks To**
 
-1. Fork the repository.
-2. Edit `config.env`.
-3. Click run.
-
- **Get Required Information:**
-   - Get the [DATABASE_URL](https://github.com/lyfe00011/levanter/wiki/DATABASE_URL). You'll need this while deploying.
- 
-   - Get the render API key. [Let's Go](https://dashboard.render.com/u/settings#api-keys).
-
- **Deploy:**
-   - [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://qr-hazel-alpha.vercel.app/render)
-### Thanks To
-
-- [Baileys](https://github.com/adiwajshing/Baileys)
-- 
+[![Baileys](https://img.shields.io/badge/Baileys-GitHub-blue)](https://github.com/adiwajshing/Baileys)
