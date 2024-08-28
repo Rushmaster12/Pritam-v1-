@@ -29,7 +29,7 @@ bot.addCommand(
 
 ╭────────────────
 │ Prefix : ${PREFIX}
-│ User : ${message.pushName}
+│ Owner : ${message.pushName}
 │ Time : ${time}
 │ Day : ${date.toLocaleString('en', { weekday: 'long' })}
 │ Date : ${date.toLocaleDateString('hi')}
@@ -96,7 +96,7 @@ bot.addCommand(
     let msg = `\`\`\`╭═══ PRITAM-V1 ═══⊷
 ┃❃╭──────────────
 ┃❃│ Prefix : ${PREFIX}
-┃❃│ User : ${message.pushName}
+┃❃│ Owner : ${message.pushName}
 ┃❃│ Time : ${time}
 ┃❃│ Day : ${date.toLocaleString('en', { weekday: 'long' })}
 ┃❃│ Date : ${date.toLocaleDateString('hi')}
