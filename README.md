@@ -59,8 +59,7 @@ GET SESSION ID VIA PAIR CODE
 
  **Deploy:**
    - [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://qr-hazel-alpha.vercel.app/koyeb)
-   - Enter [Environment Variables](https://github.com/lyfe00011/levanter/wiki/Environment_Variables). [Read More](https://github.com/lyfe00011/levanter/wiki/Environment_Variables).
-   - Enter a name and click "Create Service."
+   
 
 **Deploy on Replit:**
 
@@ -71,7 +70,7 @@ GET SESSION ID VIA PAIR CODE
 3. Click run.
 
  **Get Required Information:**
-   - Get the [DATABASE_URL](https://github.com/lyfe00011/levanter/wiki/DATABASE_URL). You'll need this while deploying.
+   - Get the [DATABASE_URL](https://github.com/officialpritam07/Pritam-v1/wiki/DATABASE_URL). You'll need this while deploying.
  
    - Get the render API key. [Let's Go](https://dashboard.render.com/u/settings#api-keys).
 
@@ -141,7 +140,7 @@ GET SESSION ID VIA PAIR CODE
    PERSONAL_MESSAGE = null" > config.env
    ```
 
-   - [Read More](https://github.com/lyfe00011/levanter/wiki/Environment_Variables)
+
 
 7. **Edit `config.env` Using Nano (if needed):**
    - To save, press `Ctrl + O`, then press `Enter`, and to exit, press `Ctrl + X`.
