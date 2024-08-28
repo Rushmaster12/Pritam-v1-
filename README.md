@@ -1,19 +1,19 @@
-# Ethix-MD
+# PRITAM-V1
 
 <p align="center">
   <a href="https://youtu.be/WcA7GZuaN0A">
-    <img alt="Ethix-MD" height="300" src="https://telegra.ph/file/fbbe1744668b44637c21a.jpg">
+    <img alt="Pritam-v1" height="300" src="https://graph.org/file/2fa88b776ecdc757e9a43.jpg">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Ethix-Xsid"><img title="Author" src="https://img.shields.io/badge/Ethix-Xsid-black?style=for-the-badge&logo=WhatsApp"></a>
+  <a href="https://github.com/officialpritam07"><img title="Author" src="https://img.shields.io/badge/Pritam-V1-black?style=for-the-badge"></a>
 </p>
 
-<p align="center">Introducing Ethix-MD, It is designed to bring a whole new level of excitement to your boring WhatsApp use.</p>
+<p align="center">Introducing Pritam-V1, It is designed to bring a whole new level of excitement to your boring WhatsApp use.</p>
 
 <p align="center">
-  <a aria-label="Ethix-MD is free to use" href="https://youtube.com/@mhmodsofc" target="_blank">
+  <a aria-label="Pritam-v1 is free to use" href="https://youtube.com/@officialpritam07" target="_blank">
     <img alt="MH MODS OFC Yt" src="https://img.shields.io/youtube/channel/subscribers/UCWHA-PreVSVaYhDTAiUipCA" target="_blank" />
   </a>
 </p>
@@ -21,81 +21,147 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{chhaseeb47}/count.svg" alt="chhaseeb47 :: Visitor's Count" /></p>
 
 <p align="center">
-  <a href="https://whatsapp.com/channel/0029Va8SjGU1noyxsYBA2K2e"><img src="https://img.shields.io/badge/Connect on WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="https://www.youtube.com/channel/UCWHA-PreVSVaYhDTAiUipCA"><img src="https://img.shields.io/badge/Subcribe On Youtube-E4405F?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://whatsapp.com/channel/0029VaFNrVHBfxoBuY2TzH2w"><img src="https://img.shields.io/badge/Join WhatsApp Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://whatsapp.com/channel/0029VanbiBu30LKJjMVwwJ1K"><img src="https://img.shields.io/badge/Connect on WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://youtube.com/@officialpritam07"><img src="https://img.shields.io/badge/Subcribe On Youtube-E4405F?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://chat.whatsapp.com/CRUGX39sRqDB9qtRGMSTqr"><img src="https://img.shields.io/badge/Join WhatsApp Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Ethix-Xsid/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ethix-Xsid?color=red&style=flat-square"></a>
-  <a href="https://github.com/Ethix-Xsid/Ethix-MD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/Ethix-Xsid/Ethix-MD?color=blue&style=flat-square"></a>
-  <a href="https://github.com/Ethix-Xsid/Ethix-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Ethix-Xsid/Ethix-MD?color=red&style=flat-square"></a>
-  <a href="https://github.com/Ethix-Xsid/Ethix-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Ethix-Xsid/Ethix-MD?label=Watchers&color=blue&style=flat-square"></a>
-  <a href="https://github.com/Ethix-Xsid/Ethix-MD"><img title="Open Source" src="https://img.shields.io/badge/Author-ETHIX SID X %20HASEEB-red?v=103"></a>
-  <a href="https://github.com/Ethix-Xsid/Ethix-MD"><img title="Size" src="https://img.shields.io/github/repo-size/Ethix-Xsid/Ethix-MD?style=flat-square&color=green"></a>
-  <a href="https://github.com/Ethix-Xsid/Ethix-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
-</p>
 
----
-
-### 1. FORK THIS REPO
-
-<a href='https://github.com/Ethix-Xsid/Ethix-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
-
-### 2. GET SESSION ID VIA PAIR CODE
-
-<a href='https://toxic-crocodile-goutammallick516-cab1ca96.koyeb.app' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
-
-### DEPLOY TO HEROKU
-
-1. If you don't have an account in Heroku, create one.
-    <br>
-    <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
-2. Now deploy.
-    <br>
-    <a href='https://heroku.com/deploy' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
-
-
-
-3. ## Deploy to Koyeb ↓
-
-<a href="https://app.koyeb.com/services/deploy/?type=git&repository=github.com%2FEthix-Xsid%2FEthix-MD&branch=main&name=ethix-md&builder=dockerfile&env%5BAUTO_BLOCK=false%5D=&env%5BSESSION_ID%5D=your%20sessionid%20here&env%5BMODE%5D=public&env=%5BAUTO_READ%5D%3Dfalse&env%5BAUTO_STATUS_SEEN%5D=true" target="blank"><img align="center" src="https://i.imgur.com/PNoLtFq.png" width="300" height="100" alt="Deploy bot"/></a>
-
-
-
-
-## DEVELOPERS
-
-<div align="left">
-  <a href="https://github.com/Ethix-Xsid"><img src="https://telegra.ph/file/fbbe1744668b44637c21a.jpg" width="300" height="200" alt="Sid"></a>
   
-  | [SIDHARTH](https://github.com/Ethix-Xsid) |
-  | Owner, Developer, Bug Fixer, Maintainer, updates |
-</div>
-
-## HELPERS
-
-<a href="https://github.com/chhaseeb47"><img src="https://github.com/chhaseeb47.png?size=100" width="130" height="100"></a> | [<img src="https://github.com/Rushmaster12.png?size=100" width="100" height="100">](https://github.com/Rushmaster12) 
----|---
-[CH HASEEB](https://github.com/Ajmal-Achu)  | [RUSHMASTER](https://github.com/Rushmaster12)
-Promotion | Groups Management|
-
-
-## Reminder
-
-- This bot is not made by `WhatsApp Inc.` So misusing the bot might `ban` your `WhatsApp account!` (Though your WhatsApp account can be unbanned only once.)
-- I am not responsible for banning your account.
-- Use at your own risk by keeping this warning in mind.
 
 ---
 
-<h1 align="center">Keep Supporting</h1>
 
-<br>
+GET SESSION ID VIA PAIR CODE
 
-## Contact
+<a href="https://qr-hazel-alpha.vercel.app/md">
+  <img src="https://img.shields.io/badge/Get Session%20ID-blue?style=for-the-badge" alt="Get Session ID Button"/>
+</a>
 
-<p align="left">
-  <a href="mailto:bsid4961@gmail.com"><img title="Author" src="https://img.shields.io/badge/GMAIL-ME-black?style=for-the-badge&logo=Gmail"></a>
-  <a href="https://wa.me/919142294671?text=Hi+sid+Sir...+I+need+some+help+in+Ethix-MD"><img title="Author" src="https://img.shields.io/badge/WHATSAPP-ME-red?style=for-the-badge&logo=WhatsApp"></a>
-</p>
+
+
+**Create Accounts:**
+[![Create Heroku Account](https://img.shields.io/badge/Create%20Heroku%20Account-purple?style=for-the-badge&logo=heroku)](https://signup.heroku.com/)
+[![Create GitHub Account](https://img.shields.io/badge/Create%20GitHub%20Account-black?style=for-the-badge&logo=github)](https://github.com/join)
+[![Create Koyeb Account](https://img.shields.io/badge/Create%20Koyeb%20Account-blue?style=for-the-badge&logo=koyeb)](https://app.koyeb.com/auth/signup)
+
+
+
+**Fork Repository:**
+
+[![Fork](https://img.shields.io/badge/Fork-blue?style=for-the-badge&logo=github)](https://github.com/lyfe00011/levanter/fork)
+
+
+ **Get Required Information:**
+.
+   - Get the Koyeb API key.
+[![Get Koyeb API Key](https://img.shields.io/badge/Get%20Koyeb%20API%20Key-blue)](https://app.koyeb.com/account/api)
+
+3. **Deploy:**
+   - [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://qr-hazel-alpha.vercel.app/koyeb)
+   - Enter [Environment Variables](https://github.com/lyfe00011/levanter/wiki/Environment_Variables). [Read More](https://github.com/lyfe00011/levanter/wiki/Environment_Variables).
+   - Enter a name and click "Create Service."
+
+### 3. Deploy on VPS or PC (Example here as in Ubuntu)
+
+#### Install with Script
+
+- Run the following command:
+  ```sh
+  bash <(curl -fsSL http://bit.ly/43JqREw)
+  ```
+
+#### Install without Script
+
+1. **Install Git, ffmpeg, and curl:**
+   ```sh
+   sudo apt -y update && sudo apt -y upgrade
+   sudo apt -y install git ffmpeg curl
+   ```
+
+2. **Install Node.js:**
+   ```sh
+   curl -fsSL https://deb.nodesource.com/setup_20.x -o nodesource_setup.sh
+   sudo -E bash nodesource_setup.sh
+   sudo apt-get install -y nodejs
+   ```
+
+3. **Install Yarn:**
+   ```sh
+   sudo npm install -g yarn
+   ```
+
+4. **Install pm2:**
+   ```sh
+   sudo yarn global add pm2
+   ```
+
+5. **Clone Repository and Install Packages:**
+   ```sh
+   git clone https://github.com/lyfe00011/levanter botName
+   cd botName
+   yarn install
+   ```
+
+6. **Enter Environment Variables:**
+   ```sh
+   echo "SESSION_ID = Session_Id_you_Got_After_Scan_Dont_Add_This_Line_If_You_Can_Scan_From_Terminal_Itself
+   PREFIX = .
+   STICKER_PACKNAME = LyFE
+   ALWAYS_ONLINE = false
+   RMBG_KEY = null
+   LANGUAG = en
+   WARN_LIMIT = 3
+   FORCE_LOGOUT = false
+   BRAINSHOP = 159501,6pq8dPiYt7PdqHz3
+   MAX_UPLOAD = 200
+   REJECT_CALL = false
+   SUDO = 989876543210
+   TZ = Asia/Kolkata
+   VPS = true
+   AUTO_STATUS_VIEW = true
+   SEND_READ = true
+   AJOIN = true
+   DISABLE_START_MESSAGE = false
+   PERSONAL_MESSAGE = null" > config.env
+   ```
+
+   - [Read More](https://github.com/lyfe00011/levanter/wiki/Environment_Variables)
+
+7. **Edit `config.env` Using Nano (if needed):**
+   - To save, press `Ctrl + O`, then press `Enter`, and to exit, press `Ctrl + X`.
+
+8. **Start and Stop the Bot:**
+   - To start the bot:
+     ```sh
+     pm2 start . --name botName --attach --time
+     ```
+   - To stop the bot:
+     ```sh
+     pm2 stop botName
+     ```
+
+### 4. Deploy on Replit
+
+[![Run on Replit](https://replit.com/badge/github/your-repo-owner/your-repo-name)](https://replit.com/@Nightbot2O/whatsapp-bot-md)
+
+1. Fork the repository.
+2. Edit `config.env`.
+3. Click run.
+
+### 5. Deploy on Render
+1. **Create an Account:**
+   - Create an account on [render](https://dashboard.render.com/register). [Sign up now](https://dashboard.render.com/register).
+
+2. **Get Required Information:**
+   - Get the [DATABASE_URL](https://github.com/lyfe00011/levanter/wiki/DATABASE_URL). You'll need this while deploying.
+   - Get the [SESSION_ID](https://qr-hazel-alpha.vercel.app/md). Open Linked Devices in WhatsApp and [SCAN](https://qr-hazel-alpha.vercel.app/md) now.
+   - Get the render API key. [Let's Go](https://dashboard.render.com/u/settings#api-keys).
+
+3. **Deploy:**
+   - [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://qr-hazel-alpha.vercel.app/render)
+### Thanks To
+
+- [Yusuf Usta](https://github.com/Quiec) for [WhatsAsena](https://github.com/yusufusta/WhatsAsena)
+- [@adiwajshing](https://github.com/adiwajshing) for [Baileys](https://github.com/adiwajshing/Baileys)
+- 
