@@ -44,7 +44,7 @@ GET SESSION ID VIA PAIR CODE
 [![Create Heroku Account](https://img.shields.io/badge/Create%20Heroku%20Account-purple?style=for-the-badge&logo=heroku)](https://signup.heroku.com/)
 [![Create GitHub Account](https://img.shields.io/badge/Create%20GitHub%20Account-black?style=for-the-badge&logo=github)](https://github.com/join)
 [![Create Koyeb Account](https://img.shields.io/badge/Create%20Koyeb%20Account-blue?style=for-the-badge&logo=koyeb)](https://app.koyeb.com/auth/signup)
-
+[![Create Render Account](https://img.shields.io/badge/Create%20Render%20Account-blue?style=for-the-badge)](https://dashboard.render.com/register)
 
 
 **Fork Repository:**
@@ -57,12 +57,12 @@ GET SESSION ID VIA PAIR CODE
    - Get the Koyeb API key.
 [![Get Koyeb API Key](https://img.shields.io/badge/Get%20Koyeb%20API%20Key-blue)](https://app.koyeb.com/account/api)
 
-3. **Deploy:**
+ **Deploy:**
    - [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://qr-hazel-alpha.vercel.app/koyeb)
    - Enter [Environment Variables](https://github.com/lyfe00011/levanter/wiki/Environment_Variables). [Read More](https://github.com/lyfe00011/levanter/wiki/Environment_Variables).
    - Enter a name and click "Create Service."
 
-### 3. Deploy on VPS or PC (Example here as in Ubuntu)
+ Deploy on VPS or PC (Example here as in Ubuntu)
 
 #### Install with Script
 
@@ -141,7 +141,7 @@ GET SESSION ID VIA PAIR CODE
      pm2 stop botName
      ```
 
-### 4. Deploy on Replit
+ Deploy on Replit
 
 [![Run on Replit](https://replit.com/badge/github/your-repo-owner/your-repo-name)](https://replit.com/@Nightbot2O/whatsapp-bot-md)
 
@@ -149,19 +149,14 @@ GET SESSION ID VIA PAIR CODE
 2. Edit `config.env`.
 3. Click run.
 
-### 5. Deploy on Render
-1. **Create an Account:**
-   - Create an account on [render](https://dashboard.render.com/register). [Sign up now](https://dashboard.render.com/register).
-
-2. **Get Required Information:**
+ **Get Required Information:**
    - Get the [DATABASE_URL](https://github.com/lyfe00011/levanter/wiki/DATABASE_URL). You'll need this while deploying.
-   - Get the [SESSION_ID](https://qr-hazel-alpha.vercel.app/md). Open Linked Devices in WhatsApp and [SCAN](https://qr-hazel-alpha.vercel.app/md) now.
+ 
    - Get the render API key. [Let's Go](https://dashboard.render.com/u/settings#api-keys).
 
-3. **Deploy:**
+ **Deploy:**
    - [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://qr-hazel-alpha.vercel.app/render)
 ### Thanks To
 
-- [Yusuf Usta](https://github.com/Quiec) for [WhatsAsena](https://github.com/yusufusta/WhatsAsena)
-- [@adiwajshing](https://github.com/adiwajshing) for [Baileys](https://github.com/adiwajshing/Baileys)
+- [Baileys](https://github.com/adiwajshing/Baileys)
 - 
