@@ -1,5 +1,5 @@
 FROM quay.io/lyfe00011/md:beta
-RUN git clone https://github.com/lyfe00011/levanter.git /root/LyFE/
-WORKDIR /root/LyFE/
+RUN  https://github.com/officialpritam07/Pritam-v1.git /root/Pritam-v1/
+WORKDIR /root/Pritam-v1/
 RUN yarn install
 CMD ["npm", "start"]
