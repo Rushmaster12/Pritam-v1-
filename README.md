@@ -69,14 +69,12 @@ GET SESSION ID VIA PAIR CODE
 2. Edit `config.env`.
 3. Click run.
 
- **Get Required Information:**
-   - Get the [DATABASE_URL](https://github.com/officialpritam07/Pritam-v1/wiki/DATABASE_URL). You'll need this while deploying.
- 
-   - Get the render API key. [Let's Go](https://dashboard.render.com/u/settings#api-keys).
 
  **Deploy:**
    - [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://qr-hazel-alpha.vercel.app/render)
- Deploy on VPS or PC (Example here as in Ubuntu)
+
+     
+ **Deploy on VPS or PC (Example here as in Ubuntu)**
 
 - Install with Script
 
